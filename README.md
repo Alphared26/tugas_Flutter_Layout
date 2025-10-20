@@ -19,13 +19,6 @@ Halaman utama menggunakan kombinasi **AppBar, Stack, ListView, Column, Row, dan 
 
 Semua elemen didesain menyerupai tampilan aplikasi kuliner modern berbasis mobile.
 
----
-
-## 📸 Tampilan
-
-<img src="assets/screenshots/preview.png" width="300" alt="preview" />
-
-> *(Screenshot hasil build bisa diletakkan di `assets/screenshots/` lalu tautkan di sini)*
 
 ---
 
